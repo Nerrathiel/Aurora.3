@@ -6,6 +6,7 @@
 	blocks_air = 1
 	density = 1
 	gender = PLURAL
+	opacity = 1
 
 // This is a global list so we can share the same list with all mineral turfs; it's the same for all of them anyways.
 var/list/mineral_can_smooth_with = list(
